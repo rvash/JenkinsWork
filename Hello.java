@@ -1,1 +1,3 @@
-class Hello{}
+package com.rakesh;
+
+public class Hello{}
